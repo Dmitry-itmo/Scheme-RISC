@@ -23,6 +23,19 @@
 ### MEM
 ---
 ![Схема MEM](img/MEM.svg)
+
 ### WB
 ---
 ![Схема WB](img/WB.svg)
+
+### Control Unit
+---
+![Схема CU](img/CU.svg)
+
+### Farwarding Unit
+---
+![Схема FU](img/FU.svg)
+
+### Hazars Detection Unit
+![Схема HDU](img/WB.svg)
+
