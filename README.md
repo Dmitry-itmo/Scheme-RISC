@@ -4,38 +4,22 @@
 --- 
 ![Схема](img/risc-iv-32-neumann[-pipeline-5]-RISC-IV.svg)
 
-### IF
+### Instruction French (IF)
 ---
 ![Схема IF](img/IF.svg)
 
-### ID
+### Instruction Decode (ID)
 ---
 ![Схема ID](img/ID.svg)
 
-### RF
----
-![Схема RF](img/RF.svg)
-
-### EX
+### Execute (EX)
 ---
 ![Схема EX](img/EX.svg)
 
-### MEM
+### Memory Access Stage (MEM)
 ---
 ![Схема MEM](img/MEM.svg)
 
-### WB
+### Write Back (WB)
 ---
 ![Схема WB](img/WB.svg)
-
-### Control Unit
----
-![Схема CU](img/CU.svg)
-
-### Farwarding Unit
----
-![Схема FU](img/FU.svg)
-
-### Hazars Detection Unit
-![Схема HDU](img/WB.svg)
-
